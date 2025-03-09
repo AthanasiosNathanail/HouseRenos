@@ -6,4 +6,3 @@ scikit-learn
 graphviz
 xlsxwriter
 openpyxl
-math
